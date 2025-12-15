@@ -38,7 +38,7 @@ Esta obra está bajo una licencia Creative Commons Atribución-NoComercial-Compa
 Para fabricación, comercialización, desarrollo o cualquier uso comercial de esta tecnología, contacta al autor:
 
 **Adrián Méndez del Río**  
-📧 Email: [REEMPLAZA_CON_TU_EMAIL]  
+📧 Email: [evelinadrian97@gmail.com]
 💼 LinkedIn: [REEMPLAZA_CON_TU_PERFIL_LINKEDIN]
 
 ### Tipos de acuerdos disponibles:
@@ -80,7 +80,7 @@ Este material se proporciona "tal cual" sin garantías de ningún tipo, expresas
 - **Fecha de publicación**: Diciembre 14, 2025
 - **Registro público**: GitHub (timestamp verificable)
 - **Autor original**: Adrián Méndez del Río
-- **Repositorio**: https://github.com/[TU_USUARIO]/[NOMBRE_REPO]
+- **Repositorio**: https://github.com/GOJO247/
 
 Este timestamp público sirve como evidencia de autoría y fecha de creación en caso de disputas legales.
 
