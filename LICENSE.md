@@ -16,10 +16,8 @@ Esta obra está bajo una licencia Creative Commons Atribución-NoComercial-Compa
 
 ### ⚠️ BAJO ESTAS CONDICIONES:
 
-- **Atribución**: Debes dar crédito apropiado, proporcionar un enlace a la licencia e indicar si se realizaron cambios. Puedes hacerlo de cualquier manera razonable, pero no de forma que sugiera que el licenciante te respalda a ti o tu uso.
-
+- **Atribución**: Debes dar crédito apropiado, proporcionar un enlace a la licencia e indicar si se realizaron cambios. Puedes hacerlo de cualquier manera razonable, pero no de forma que sugiera que tienes el apoyo del autor o lo haces en representación suya.
 - **No Comercial**: **NO** puedes usar el material para propósitos comerciales sin permiso explícito por escrito del titular de los derechos.
-
 - **Compartir Igual**: Si remezclas, transformas o construyes sobre el material, debes distribuir tus contribuciones bajo la misma licencia que el original.
 
 ### ❌ NO PUEDES (sin permiso escrito):
@@ -38,18 +36,18 @@ Esta obra está bajo una licencia Creative Commons Atribución-NoComercial-Compa
 Para fabricación, comercialización, desarrollo o cualquier uso comercial de esta tecnología, contacta al autor:
 
 **Adrián Méndez del Río**  
-📧 Email: [evelinadrian97@gmail.com]
+📧 Email: evelinadrian97@gmail.com  
 💼 LinkedIn: [REEMPLAZA_CON_TU_PERFIL_LINKEDIN]
 
 ### Tipos de acuerdos disponibles:
 
-| Opción | Descripción |
-|--------|-------------|
-| **Licencia con Regalías** | Derecho a fabricar/vender pagando 3-8% sobre ventas |
-| **Co-Fundación** | Crear empresa juntos con equity compartido (25-40% inventor) |
-| **Licencia Exclusiva** | Derechos exclusivos en territorio específico |
-| **Compra Total** | Transferencia completa de derechos de propiedad intelectual |
-| **Joint Venture** | Desarrollo conjunto con derechos compartidos |
+| Opción                | Descripción                                                        |
+|-----------------------|--------------------------------------------------------------------|
+| **Licencia con Regalías** | Derecho a fabricar/vender pagando 3-8% sobre ventas                |
+| **Co-Fundación**      | Crear empresa juntos con equity compartido (25-40% inventor)        |
+| **Licencia Exclusiva**| Derechos exclusivos en territorio específico                        |
+| **Compra Total**      | Transferencia completa de derechos de propiedad intelectual         |
+| **Joint Venture**     | Desarrollo conjunto con derechos compartidos                        |
 
 ---
 
@@ -69,7 +67,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 ## Aviso Legal
 
-Este material se proporciona "tal cual" sin garantías de ningún tipo, expresas o implícitas. El autor no se hace responsable de daños que puedan derivarse del uso de esta información.
+Este material se proporciona "tal cual", sin garantías de ningún tipo, expresas o implícitas. El autor no se hace responsable de daños que puedan derivarse del uso de esta información.
 
 **Cualquier uso comercial no autorizado constituye una violación de esta licencia y está sujeto a acciones legales apropiadas.**
 
@@ -89,10 +87,11 @@ Este timestamp público sirve como evidencia de autoría y fecha de creación en
 ## Atribución Requerida
 
 Si compartes o adaptas este trabajo, debes incluir:
-Therma-Pulse: Bisturí Quirúrgico Híbrido
-Diseñado por Adrián Méndez del Río (2025)
-Licencia: CC BY-NC-SA 4.0
-Fuente: https://github.com/GOJO247/Therma-Pulse-Surgical-Scalpel
+- Therma-Pulse: Bisturí Quirúrgico Híbrido
+- Diseñado por Adrián Méndez del Río (2025)
+- Licencia: CC BY-NC-SA 4.0
+- Fuente: https://github.com/GOJO247/Therma-Pulse-Surgical-Scalpel
+
 ---
 
 ## English Version
@@ -109,9 +108,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 ### Under the following terms:
 
 - **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-
 - **NonCommercial**: You may not use the material for commercial purposes without explicit written permission from the copyright holder.
-
 - **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
 
 ### You may NOT (without written permission):
@@ -122,7 +119,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 - Obtain patents on the concept or derivatives
 
 **For commercial licensing inquiries:**  
-📧 [YOUR_EMAIL]
+📧 evelinadrian97@gmail.com
 
 Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
