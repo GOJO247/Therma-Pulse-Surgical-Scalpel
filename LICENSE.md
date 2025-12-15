@@ -80,7 +80,7 @@ Este material se proporciona "tal cual" sin garantías de ningún tipo, expresas
 - **Fecha de publicación**: Diciembre 14, 2025
 - **Registro público**: GitHub (timestamp verificable)
 - **Autor original**: Adrián Méndez del Río
-- **Repositorio**: https://github.com/GOJO247/
+- **Repositorio**: https://github.com/GOJO247/Therma-Pulse-Surgical-Scalpel
 
 Este timestamp público sirve como evidencia de autoría y fecha de creación en caso de disputas legales.
 
@@ -92,7 +92,7 @@ Si compartes o adaptas este trabajo, debes incluir:
 Therma-Pulse: Bisturí Quirúrgico Híbrido
 Diseñado por Adrián Méndez del Río (2025)
 Licencia: CC BY-NC-SA 4.0
-Fuente: https://github.com/[TU_USUARIO]/[NOMBRE_REPO]
+Fuente: https://github.com/GOJO247/Therma-Pulse-Surgical-Scalpel
 ---
 
 ## English Version
